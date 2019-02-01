@@ -20,7 +20,7 @@ class SharesModel(models.Model):
 	date=models.DateTimeField()
 	sh_open=models.FloatField()
 	sh_close=models.FloatField()
-	sh_volume=models.FloatField()
+	sh_volume=models.FloatField() #times traded at the particular time
 	sh_low=models.FloatField()
 	sh_high=models.FloatField()
 
