@@ -2,3 +2,4 @@ __pycache__/
 *.db
 *.egg
 *.pyc
+node_modules/

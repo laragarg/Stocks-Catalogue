@@ -1,0 +1,14 @@
+.container {
+  flex: 1;
+  display: flex;     
+  background-color: var(--off-white2);
+  padding: 5rem;
+  justify-content: space-around;
+}
+
+.sub-container {
+    width: 60%;
+}
+.banner {
+    width: 30%;
+}
